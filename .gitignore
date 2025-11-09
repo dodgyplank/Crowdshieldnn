@@ -1,5 +1,4 @@
 hacx
 .env
-data/processed
-data/rawdata/raw/
+data/raw/
 data/processed/

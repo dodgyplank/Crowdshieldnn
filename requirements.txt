@@ -6,3 +6,7 @@ python-dateutil
 folium
 streamlit
 streamlit-folium
+torch-geometric
+torch
+numpy
+requests
