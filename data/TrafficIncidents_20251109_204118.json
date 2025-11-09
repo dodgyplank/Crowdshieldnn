@@ -1,0 +1,17 @@
+{
+  "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+  "value": [
+    {
+      "Type": "Vehicle breakdown",
+      "Latitude": 1.38009163114163,
+      "Longitude": 103.77583704937524,
+      "Message": "(9/11)20:36 Vehicle Breakdown on BKE (towards W'lands) after Bukit Panjang Rd. Avoid lane 3."
+    },
+    {
+      "Type": "Heavy Traffic",
+      "Latitude": 1.3297773250855272,
+      "Longitude": 103.86361831963781,
+      "Message": "(9/11)20:26 Heavy Traffic on PIE (towards Tuas) at CTE(SLE) Exit."
+    }
+  ]
+}
