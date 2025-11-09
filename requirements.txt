@@ -1,0 +1,8 @@
+pandas
+pyarrow
+shapely
+xmltodict
+python-dateutil
+folium
+streamlit
+streamlit-folium

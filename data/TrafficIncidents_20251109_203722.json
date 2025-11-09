@@ -1,0 +1,11 @@
+{
+  "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+  "value": [
+    {
+      "Type": "Heavy Traffic",
+      "Latitude": 1.3297773250855272,
+      "Longitude": 103.86361831963781,
+      "Message": "(9/11)20:26 Heavy Traffic on PIE (towards Tuas) at CTE(SLE) Exit."
+    }
+  ]
+}
